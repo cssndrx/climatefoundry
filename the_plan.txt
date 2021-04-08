@@ -1,0 +1,5 @@
+favicon
+mobile
+add meta tags for sharing
+
+add some preview/jump ahead
